@@ -127,7 +127,7 @@ cd neurochrome
 #### Method 3: GitHub CLI
 ```bash
 # Using GitHub CLI
-gh repo clone username/neurochrome
+gh repo clone naseridev/neurochrome
 cd neurochrome
 ```
 
